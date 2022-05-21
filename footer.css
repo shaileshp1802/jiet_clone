@@ -1,0 +1,22 @@
+#footer_img{
+    float: left;
+    width: 25%;
+    text-align: center;
+    padding-top: 50px;
+}
+#footer_txt{
+    width: 100%;
+    text-align: center;
+    padding-top: 90px;
+}
+.txt_white{
+    color: white;
+}
+
+.bg_brown{
+    background-color: brown;
+    color: white;
+}
+#footer_txt a{
+    text-decoration: underline;
+}
